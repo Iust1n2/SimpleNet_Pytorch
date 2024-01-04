@@ -102,3 +102,7 @@ ENV/
 
 # 
 test.ipynb
+
+# data
+MNIST\data\train\MNIST_train.csv
+MNIST\data\test\MNIST_test.csv
